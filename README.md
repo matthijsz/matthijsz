@@ -42,10 +42,10 @@
 <h2> My GitHub Stats <img src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=matthijsz&count_private=true&show_icons=true&theme=dark&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=matthijsz&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthijsz&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthijsz&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" />
 </a>
 
 
