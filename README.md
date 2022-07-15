@@ -16,7 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on MCMSEM, GenomicSEM, behavioral & statistical genetics, bioinformatics, machine learning
+- 🔭 I’m currently working on 
+    - [MCMSEM](https://github.com/zenabtamimy/MCMSEM)
+    - [GenomicSEM](https://github.com/GenomicSEM/GenomicSEM)
 
 - 🌱 I’m currently learning JAX, C++ 
 
@@ -25,8 +27,7 @@
 - 💬 Talk to me about Python, R, machine learning, Open Source 
 
 
-<h2> Skills 
-<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2></h2>
 <a href= https://github.com/matthijsz?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> 
 <a href= https://github.com/matthijsz?tab=repositories&q=&type=&language=R&sort= > <img width ='32px' height='32px' src ='https://www.r-project.org/logo/Rlogo.svg'> </a> 
 <a href= https://github.com/matthijsz?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
