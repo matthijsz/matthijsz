@@ -16,15 +16,15 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on 
+- 🔭 Projects
     - [MCMSEM](https://github.com/zenabtamimy/MCMSEM)
     - [GenomicSEM](https://github.com/GenomicSEM/GenomicSEM)
 
 - 🌱 I’m currently learning JAX, C++ 
 
-- 👯 I’m looking to collaborate on Bioinformatics, genetics, machine learning (ideally any combination of those) projects 
+- 👯 I’m looking to collaborate on Bioinformatics, statistics, genetics, machine learning (ideally any combination of those) projects 
 
-- 💬 Talk to me about Python, R, machine learning, Open Source 
+- 💬 Talk to me about Python, R, Scala, Spark, machine learning, Open Source 
 
 
 <h2></h2>
